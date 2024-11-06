@@ -62,7 +62,7 @@ Project Management with Git &amp; Github Creation of Resume Using Github Reposit
 			<div class="Hobbies">
 				<h2>Hobbies</h2>
 				<ul>
-					<li>Martial Artist - DAN II KARATE BLACK BELT</li>
+					<li>MARTIAL ARTIST - DAN II SHOTOKAN KARATE BLACK BELT</li>
 					<li>GAMING</li>
 				</ul>
 			</div>
