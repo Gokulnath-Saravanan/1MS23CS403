@@ -10,7 +10,7 @@ Project Management with Git &amp; Github Creation of Resume Using Github Reposit
 		content="width=device-width, 
 				initial-scale=1.0">
 	<link rel="stylesheet"
-		href="resume.css">
+		href="https://github.com/Gokulnath-Saravanan/1MS23CS403/blob/main/resume.css">
 </head>
 
 <body>
