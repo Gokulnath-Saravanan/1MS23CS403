@@ -33,6 +33,7 @@ body {
 .image, .Contact, .Skills, .Language, .Hobbies, .title, 
 .Summary, .Experience, .Education, .project {
 	margin-bottom: 30px;
+	font-family:chiller;
 }
 .h2 {
 	background-color: rgb(4, 96, 150);
