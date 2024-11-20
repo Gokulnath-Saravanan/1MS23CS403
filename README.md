@@ -107,7 +107,7 @@ Project Management with Git &amp; Github Creation of Resume Using Github Reposit
 					<li>
 						<h2>E BOOK MANAGEMENT SYSTEM</h2>
 						<p>
-							This project is based on JAVA and JavaServlet Programming which includes HTML & CSS
+							This project is based on JAVA and JavaServlet Programming which includes HTML, CSS & Git 
 						</p>
 					</li>
 				</ul>
